@@ -10,23 +10,19 @@ This project demonstrates how to:
 
 ## Usage
 
-1. Open the notebook (`kaggle_heartattack.ipynb`) in Jupyter.
+1. Open the notebook (`kaggle_heart_attack.ipynb`) in Jupyter.
 2. Run all cells to download the dataset, select features, train the model, and view results.
 3. Use the interactive widget to choose which features to include in the model.
 
 ## Running on Google Colab
 
-To run this notebook on [Google Colab](https://colab.research.google.com):
+To run this notebook on Google Colab, open the following link:
 
-1. Upload the notebook file to Colab.
-2. Make sure to run the first cell to install all required packages (including `kagglehub`, `ipywidgets`, etc.).
-3. If you want to use widgets, run:
-   ```python
-   !pip install ipywidgets
-   from google.colab import output
-   output.enable_custom_widget_manager()
-   ```
-4. Proceed with the rest of the notebook as usual.
+[Open in Colab](https://colab.research.google.com/drive/1hyKD6MllPjuVYbZrhMmAwCBdREcGekyR?usp=sharing)
+
+1. Make sure to run the first cell to install all required packages (including `kagglehub`, `ipywidgets`, etc.).
+
+2. Proceed with the rest of the notebook as usual.
 
 ## Requirements
 
